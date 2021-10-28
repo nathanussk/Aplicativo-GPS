@@ -1,6 +1,6 @@
 # Aplicativo-GPS
 
-## É um Aplicativo de estudo pessoal sobre GPS no SWIFT.
+## É um Aplicativo de estudo pessoal sobre a sua localização no GPS com SWIFT.
 
 ## :rocket: Tecnologias
 
